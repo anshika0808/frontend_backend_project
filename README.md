@@ -30,9 +30,6 @@ Running Both Servers Simultaneously
 Make sure the Flask backend is running before starting the React frontend to ensure they can communicate properly.
 * Open two terminal windows, one for Flask and one for React, and run the respective commands (python app.py and npm start) in each.
 *  Access the Project
-The React frontend should be running on http://localhost:3000.
-The Flask backend should be accessible at http://127.0.0.1:5000.
-
 Challenges Faced and Solutions
 1: Handling CORS (Cross-Origin Resource Sharing) Issues 
 Solution: We used the flask-cors library to enable CORS for all routes in the Flask application. 
