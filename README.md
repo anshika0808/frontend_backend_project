@@ -21,7 +21,7 @@ If requirements.txt doesn’t exist, create it by listing the necessary packages
 d. Run the Flask Server - python app.py
 If your main Flask file is named something other than app.py, replace app.py with your file name.
 
-Instruction for running the Backend code
+Instruction for running the Frontend code
 a. Navigate to the Frontend Directory - cd frontend
 b. Install React Dependencies - npm install
 c. Run the React Development Server - npm start
